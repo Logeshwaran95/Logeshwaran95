@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **Logeshwaran95/Logeshwaran95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+-->
+
   
 
 - # **<div align="center">Iam Logeshwaran, an Aspiring Full Stack Developer</div>**  
@@ -115,12 +117,11 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
-<br/>  
 
-<img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31sa2airhc76krdjpckbg7e3i42y&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sa2airhc76krdjpckbg7e3i42y&cover_image=true&theme=default&bar_color_cover=false" align="center" style="width: 100%" />  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sa2airhc76krdjpckbg7e3i42y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -131,14 +132,3 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
