@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 
   
 
-- # **<div align="center">Iam Logeshwaran, an Aspiring Full Stack Developer</div>**  
-  
 
-<br/>  
+# I'm Logeshwaran - Aspiring Full Stack Developer 
+
+I'm a second year engineering student at college of engineering guindy , Anna University , Chennai. Web technologies truly pique my curiosity. I love building websites and mobile applications. I adore programming, problem-solving, and tasks that require me to use my skills to the fullest.
+
+
 
 
 ## My Skill Set  
@@ -110,11 +112,13 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=logeshwaran95&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<br/>  
+<br/> 
+ 
+-->
 
 
 
@@ -125,9 +129,9 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=logeshwaran95&&style=flat-square" align="center" />
-</div>  
+</div>   -->
   
 
 <br/>  
