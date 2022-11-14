@@ -11,7 +11,7 @@
   
 
 
-# I'm Logeshwaran - Aspiring Full Stack Developer 
+# I'm Logeshwaran - Aspiring Software Developer 
 
 I'm a second year engineering student at college of engineering guindy , Anna University , Chennai. Web technologies truly pique my curiosity. I love building websites and mobile applications. I adore programming, problem-solving, and tasks that require me to use my skills to the fullest.
 
