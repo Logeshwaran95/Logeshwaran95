@@ -13,7 +13,15 @@
 
 # I'm Logeshwaran - Aspiring Software Developer 
 
-I'm a third year engineering student at college of engineering guindy , Anna University , Chennai. Web technologies truly pique my curiosity. I love building websites and mobile applications. I adore programming, problem-solving, and tasks that require me to use my skills to the fullest.
+Hey all! This is Logeshwaran, a Final Year Student at College of Engineering Guindy, Anna University, Chennai.
+
+I embarked on my coding journey initially because it felt incredibly cool, with a touch of swag inspired by Hollywood movies like "The Social Network" and such. But now, coding has become more than just a passion for me. It's something I truly love.
+
+I specialize in building awesome websites and mobile applications. My go-to languages for problem-solving are Java and Python. When it comes to web development, I'm well-versed in the MERN stack. And for cross-platform mobile development, I've got a knack for React Native.
+
+When I'm not engrossed in coding, you might catch me unleashing my competitive spirit in PC games or indulging in a friendly game of football. So, let's connect and bring some coding magic to life!
+
+Keep calm and code on!
 
 <br/>
 
