@@ -50,8 +50,12 @@ Keep calm and code on!
 <br/>  
 
 
- ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran95&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h2>GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran95&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
+</p>
+
   
 
 <br/>  
@@ -76,10 +80,15 @@ Keep calm and code on!
 
 <br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Random Dev Quote ✍️ 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</p>
+
 
 <br/>
+
+## Vibes Unleashed : A Journey through My Playlist
 
 <!--
 ## Github Stats  
