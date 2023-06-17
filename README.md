@@ -23,12 +23,29 @@ Keep calm and code on!
 
 <br/>
 
-## 💻 Tech Stack
+## My Tech Arsenal 💻
+
+<h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
   </a>
 </p>
+
+<h2 align="center">Development Tools </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mysql,mongodb" />
+  </a>
+</p>
+ 
+<h2 align="center">Platform, Services and Others </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,netlify,vscode,linux,github,postman,selenium" />
+  </a>
+</p>
+
 
 <br/>  
 
