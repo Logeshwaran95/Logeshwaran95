@@ -35,14 +35,14 @@ Keep calm and code on!
 <h2 align="center">Development Tools </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mysql,mongodb,php" />
   </a>
 </p>
  
 <h2 align="center">Platform, Services and Others </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,netlify,vscode,linux,github,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,netlify,vscode,linux,github,postman,selenium,eclipse,xd,pr,figma" />
   </a>
 </p>
 
