@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="logeshwaran_background.png" align="center" style="width: 100%" />
+<img src="https://github.com/Logeshwaran95/Logeshwaran95/assets/83328395/3a3f47c6-bf3f-4f3c-b140-dfe2cc0740c0" align="center" style="width: 100%" />
 </div>  
 
   
