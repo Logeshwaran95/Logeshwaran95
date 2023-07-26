@@ -1,9 +1,10 @@
 <!--### Hi there 👋-->
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/Logeshwaran95/Logeshwaran95/assets/83328395/3a3f47c6-bf3f-4f3c-b140-dfe2cc0740c0" align="center" style="width: 100%" />
-</div>  
+</div>
+-->
 
   
 
