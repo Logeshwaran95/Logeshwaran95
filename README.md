@@ -8,7 +8,7 @@
 
   
 
-# Logeshwaran - Aspiring Software Developer 👨‍💻
+# Logeshwaran - Full Stack Developer 👨‍💻
 
 Hey there! Welcome to my GitHub profile! I'm Logeshwaran, a Final Year Student at College of Engineering Guindy, Anna University, Chennai.
 
